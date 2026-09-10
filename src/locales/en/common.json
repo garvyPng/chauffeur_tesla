@@ -1,0 +1,80 @@
+{
+    "nav": {
+        "home": "Home",
+        "experiences": "Experiences",
+        "vehicle": "Vehicle",
+        "contact": "Contact"
+    },
+    "buttons": {
+        "book": "Book Your Experience",
+        "explore": "Explore Tours",
+        "view_all": "View All Experiences",
+        "view_experience": "View Experience",
+        "learn_more": "Learn More"
+    },
+    "labels": {
+        "one_day_tour": "One-Day Tour"
+    },
+    "important_info": {
+        "title": "Important to Know",
+        "items": [
+            {
+                "title": "Entry Tickets & Meals Not Included",
+                "text": "Entry tickets, cable cars, mountain railways, train tickets, meals and restaurants are paid directly by you on-site."
+            },
+            {
+                "title": "A Private Chauffeur Service",
+                "text": "Our service is a private chauffeur-driven journey — your driver accompanies and guides you throughout the day."
+            },
+            {
+                "title": "Airport Transfer Included",
+                "text": "Transfer from Zurich Airport to Zurich city or Lucerne is always included."
+            },
+            {
+                "title": "Fixed Price, No Meter",
+                "text": "A fixed price is agreed in advance — no taximeter, no surprises."
+            },
+            {
+                "title": "Free Cancellation",
+                "text": "Free cancellation up to 24 hours before your booking."
+            },
+            {
+                "title": "How Payment Works",
+                "text": "Full prepayment by card is required to confirm your booking. Contact us directly to reserve your journey — we will provide bank details for payment."
+            }
+        ]
+    },
+    "footer": {
+        "logo_text": "PRIVATE CHAUFFEUR",
+        "logo_subtext": "SWITZERLAND",
+        "tagline": "Private Mercedes-Benz chauffeur experiences across Zurich, Lucerne and the Swiss Alps.",
+        "navigation": {
+            "title": "Navigation",
+            "links": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Experiences",
+                    "url": "/experiences"
+                },
+                {
+                    "label": "Vehicle",
+                    "url": "/vehicle"
+                },
+                {
+                    "label": "Contact",
+                    "url": "/contact"
+                }
+            ]
+        },
+        "contacts": {
+            "title": "Contact",
+            "phone": "+41 76 294 35 88",
+            "email": "info@private.chauffeur",
+            "whatsapp": "+41 76 294 35 88"
+        },
+        "copyright": "Copyright Private Chauffeur"
+    }
+}

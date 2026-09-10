@@ -1,0 +1,80 @@
+{
+    "nav": {
+        "home": "Startseite",
+        "experiences": "Erlebnisse",
+        "vehicle": "Fahrzeug",
+        "contact": "Kontakt"
+    },
+    "buttons": {
+        "book": "Ihr Erlebnis buchen",
+        "explore": "Touren entdecken",
+        "view_all": "Alle Erlebnisse ansehen",
+        "view_experience": "Erlebnis ansehen",
+        "learn_more": "Mehr erfahren"
+    },
+    "labels": {
+        "one_day_tour": "Tagesausflug"
+    },
+    "important_info": {
+        "title": "Wichtig zu wissen",
+        "items": [
+            {
+                "title": "Eintritte & Verpflegung nicht inbegriffen",
+                "text": "Eintrittskarten, Seilbahnen, Bergbahnen, Zugtickets sowie Verpflegung und Restaurants bezahlen Sie direkt vor Ort selbst."
+            },
+            {
+                "title": "Ein privater Chauffeurservice",
+                "text": "Unser Service ist eine private Fahrt mit Chauffeur — Ihr Fahrer begleitet und führt Sie den ganzen Tag über."
+            },
+            {
+                "title": "Flughafentransfer inbegriffen",
+                "text": "Der Transfer vom Flughafen Zürich in die Stadt Zürich oder nach Luzern ist immer inbegriffen."
+            },
+            {
+                "title": "Festpreis, kein Taxameter",
+                "text": "Ein Festpreis wird im Voraus vereinbart — kein Taxameter, keine Überraschungen."
+            },
+            {
+                "title": "Kostenlose Stornierung",
+                "text": "Kostenlose Stornierung bis 24 Stunden vor Ihrer Buchung."
+            },
+            {
+                "title": "So funktioniert die Zahlung",
+                "text": "Zur Bestätigung Ihrer Buchung ist eine vollständige Vorauszahlung per Karte erforderlich. Kontaktieren Sie uns direkt, um Ihre Reise zu reservieren — wir senden Ihnen die Bankverbindung für die Zahlung."
+            }
+        ]
+    },
+    "footer": {
+        "logo_text": "PRIVATE CHAUFFEUR",
+        "logo_subtext": "SCHWEIZ",
+        "tagline": "Private Mercedes-Benz Chauffeur-Erlebnisse in Zürich, Luzern und den Schweizer Alpen.",
+        "navigation": {
+            "title": "Navigation",
+            "links": [
+                {
+                    "label": "Startseite",
+                    "url": "/"
+                },
+                {
+                    "label": "Erlebnisse",
+                    "url": "/experiences"
+                },
+                {
+                    "label": "Fahrzeug",
+                    "url": "/vehicle"
+                },
+                {
+                    "label": "Kontakt",
+                    "url": "/contact"
+                }
+            ]
+        },
+        "contacts": {
+            "title": "Kontakt",
+            "phone": "+41 76 294 35 88",
+            "email": "info@private.chauffeur",
+            "whatsapp": "+41 76 294 35 88"
+        },
+        "copyright": "Copyright Private Chauffeur"
+    }
+}
