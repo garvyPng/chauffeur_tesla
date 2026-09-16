@@ -458,5 +458,85 @@
         "price": "FROM CHF 800",
         "duration_hours_text": "8–9 hrs",
         "passengers": "1–2 Passengers"
+    },
+    "stanserhorn": {
+        "id": "stanserhorn",
+        "show": true,
+        "order": 7,
+        "slug": "stanserhorn-experience",
+        "title": "Stanserhorn Private Experience",
+        "description": "Ride the world's first open-top cable car to the summit of Stanserhorn, where a revolving restaurant and sweeping Central Swiss panorama await.",
+        "overview": "The Stanserhorn (1,898 m above sea level) in the canton of Nidwalden is one of Central Switzerland's most rewarding summits, known for its all-round panorama and its historic chain of mountain transport. Ascend aboard the CabriO — the world's first cable car with an open upper deck — and take in the view from the roof as you rise through the alpine air.",
+        "route_description": "A refined ascent from the lakeside town of Stans to the summit of Stanserhorn, combining a historic funicular, the pioneering open-top CabriO cable car and the effortless comfort of a private chauffeur-driven journey.",
+        "route": [
+            {
+                "time": "9:00",
+                "title": "VIP Pickup",
+                "description": "A private pickup at your hotel, in Zurich or the Lucerne area."
+            },
+            {
+                "time": "10:00",
+                "title": "Stans Village",
+                "description": "Arrival in the charming town of Stans, at the foot of the mountain."
+            },
+            {
+                "time": "10:30",
+                "title": "Historic Funicular",
+                "description": "Board the nostalgic open-sided funicular from 1893 for the first stage of the ascent."
+            },
+            {
+                "time": "11:00",
+                "title": "CabriO Cable Car",
+                "description": "Ride the world's first cable car with an open upper deck — stand in the breeze as you climb toward the summit."
+            },
+            {
+                "time": "11:45",
+                "title": "Summit Panorama",
+                "description": "Free time at the top for the 360° view over ten lakes and more than a hundred alpine peaks."
+            },
+            {
+                "time": "13:00",
+                "title": "Rondorama Lunch",
+                "description": "Lunch at the revolving Rondorama restaurant, which completes a full turn every 43 minutes."
+            },
+            {
+                "time": "14:30",
+                "title": "Ranger Walk",
+                "description": "Meet the volunteer rangers for insights into the alpine flora, the panorama and the mountain's history."
+            },
+            {
+                "time": "16:00",
+                "title": "Descent",
+                "description": "A relaxed descent by CabriO and funicular, with your chauffeur waiting below."
+            },
+            {
+                "time": "17:00",
+                "title": "Scenic Return",
+                "description": "A comfortable drive back along the shores of Lake Lucerne, with complimentary refreshments."
+            }
+        ],
+        "custom_journey": {
+            "title": "Create Your Own Journey",
+            "description": "Prefer your own itinerary? Your chauffeur is completely at your disposal. Choose the places you would like to visit, adjust the schedule and enjoy Switzerland at your own pace. You can choose:",
+            "items": [
+                "CabriO open-top ride",
+                "Rondorama revolving restaurant",
+                "Ranger-guided insights",
+                "Summit viewpoints",
+                "Stans old town",
+                "Photography stops",
+                "Hidden gems",
+                "Leisure travel"
+            ]
+        },
+        "pickup_options": [
+            "Zurich Airport",
+            "Hotel",
+            "Private Address"
+        ],
+        "duration": "Full Day",
+        "price": "FROM CHF 800",
+        "duration_hours_text": "8-9 hrs",
+        "passengers": "1-2 passengers"
     }
 }

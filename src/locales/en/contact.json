@@ -26,6 +26,14 @@
         "phone_label": "Phone",
         "phone_placeholder": "+41 00 000 00 00",
         "date_label": "Preferred Date",
+        "meeting_sign_label": "Name or Company for Pickup Sign",
+        "meeting_sign_placeholder": "The name we should display when meeting you",
+        "meeting_sign_hint": "This is the name your chauffeur will hold on the sign at the airport.",
+        "flight_number_label": "Flight Number",
+        "flight_number_placeholder": "e.g. LX 317",
+        "flight_number_hint": "So we can track your flight and adjust for delays.",
+        "dropoff_address_label": "Drop-off Address",
+        "dropoff_address_placeholder": "Hotel, street address or destination",
         "message_label": "Message",
         "message_placeholder": "Tell us about your trip, group size, and any special requests...",
         "submit_label": "Send Message",
@@ -34,5 +42,14 @@
         "success_text": "Thank you — we'll be in touch shortly to confirm the details of your journey.",
         "error_text": "Something went wrong. Please try again or contact us directly."
     },
-    "payment_note": "Bookings require full prepayment by card. Once we confirm your journey, we'll send you our bank details to complete payment."
+    "payment_note": "Bookings require full prepayment by card. Once we confirm your journey, we'll send you our bank details to complete payment.",
+    "booking_info": {
+        "title": "What to Include When Booking",
+        "items": [
+            "Name or company for the pickup sign",
+            "Flight number and arrival time",
+            "Drop-off address",
+            "Date and number of passengers"
+        ]
+    }
 }

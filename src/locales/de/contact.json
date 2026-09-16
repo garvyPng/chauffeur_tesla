@@ -26,6 +26,14 @@
         "phone_label": "Telefon",
         "phone_placeholder": "+41 00 000 00 00",
         "date_label": "Wunschtermin",
+        "meeting_sign_label": "Name oder Firma für das Namensschild",
+        "meeting_sign_placeholder": "Name, der beim Empfang angezeigt werden soll",
+        "meeting_sign_hint": "Diesen Namen hält Ihr Chauffeur am Flughafen auf dem Schild bereit.",
+        "flight_number_label": "Flugnummer",
+        "flight_number_placeholder": "z. B. LX 317",
+        "flight_number_hint": "Damit wir Ihren Flug verfolgen und auf Verspätungen reagieren können.",
+        "dropoff_address_label": "Zieladresse",
+        "dropoff_address_placeholder": "Hotel, Strassenadresse oder Zielort",
         "message_label": "Nachricht",
         "message_placeholder": "Erzählen Sie uns von Ihrer Reise, der Gruppengrösse und etwaigen Sonderwünschen...",
         "submit_label": "Nachricht senden",
@@ -34,5 +42,14 @@
         "success_text": "Vielen Dank — wir melden uns in Kürze, um die Details Ihrer Reise zu bestätigen.",
         "error_text": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt."
     },
-    "payment_note": "Für Buchungen ist eine vollständige Vorauszahlung per Karte erforderlich. Sobald wir Ihre Reise bestätigt haben, senden wir Ihnen unsere Bankverbindung zur Zahlung."
+    "payment_note": "Für Buchungen ist eine vollständige Vorauszahlung per Karte erforderlich. Sobald wir Ihre Reise bestätigt haben, senden wir Ihnen unsere Bankverbindung zur Zahlung.",
+    "booking_info": {
+        "title": "Angaben für Ihre Buchung",
+        "items": [
+            "Name oder Firma für das Namensschild",
+            "Flugnummer und Ankunftszeit",
+            "Zieladresse",
+            "Datum und Anzahl der Passagiere"
+        ]
+    }
 }

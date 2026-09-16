@@ -3,6 +3,8 @@ import { useTranslation } from 'react-i18next';
 import { Outlet, useParams } from 'react-router-dom';
 import Navbar from '../components/common/Navbar';
 import { Footer } from '../components/common/Footer';
+import { FloatingPhone } from '../components/ui/FloatingPhone';
+import { FloatingWhatsApp } from '../components/ui/FloatingWhatsApp';
 
 export default function AppLayout() {
     const { lang } = useParams();
@@ -23,6 +25,9 @@ export default function AppLayout() {
             <Navbar />
             <Outlet />
             <Footer />
+
+            <FloatingPhone />
+            <FloatingWhatsApp />
         </>
     );
 }

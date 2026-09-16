@@ -17,6 +17,9 @@ interface FormState {
     email: string;
     phone: string;
     date: string;
+    meetingSign: string;
+    flightNumber: string;
+    dropoffAddress: string;
     message: string;
 }
 
@@ -25,6 +28,9 @@ const initialForm: FormState = {
     email: '',
     phone: '',
     date: '',
+    meetingSign: '',
+    flightNumber: '',
+    dropoffAddress: '',
     message: '',
 };
 
@@ -139,6 +145,26 @@ export const FormSection = () => {
                                     value={t('info.areas')}
                                 />
                             </div>
+                            <div className='mt-10 border-t border-neutral-200 pt-8'>
+                                <h3 className='font-serif text-base text-neutral-900'>
+                                    {t('booking_info.title')}
+                                </h3>
+                                <ul className='mt-4 flex flex-col gap-2'>
+                                    {(
+                                        t('booking_info.items', {
+                                            returnObjects: true,
+                                        }) as string[]
+                                    ).map((item) => (
+                                        <li
+                                            key={item}
+                                            className='flex items-start gap-2 text-sm text-neutral-500'
+                                        >
+                                            <span className='mt-2 h-1 w-1 shrink-0 rounded-full bg-[#C9A15B]' />
+                                            {item}
+                                        </li>
+                                    ))}
+                                </ul>
+                            </div>
                         </div>
 
                         {/* Form */}
@@ -246,6 +272,76 @@ export const FormSection = () => {
                                                 className='mt-2 w-full border-b border-neutral-300 bg-transparent py-2 text-sm text-neutral-900 focus:border-[#C9A15B] focus:outline-none'
                                             />
                                         </div>
+                                    </div>
+
+                                    {/* Pickup sign + Flight number */}
+                                    <div className='grid grid-cols-1 gap-5 sm:grid-cols-2'>
+                                        <div>
+                                            <label
+                                                htmlFor='meetingSign'
+                                                className='text-xs font-medium uppercase tracking-[0.15em] text-neutral-500'
+                                            >
+                                                {t('form.meeting_sign_label')}
+                                            </label>
+                                            <input
+                                                id='meetingSign'
+                                                name='meetingSign'
+                                                type='text'
+                                                value={form.meetingSign}
+                                                onChange={handleChange}
+                                                placeholder={t(
+                                                    'form.meeting_sign_placeholder',
+                                                )}
+                                                className='mt-2 w-full border-b border-neutral-300 bg-transparent py-2 text-sm text-neutral-900 placeholder:text-neutral-400 focus:border-[#C9A15B] focus:outline-none'
+                                            />
+                                            <p className='mt-1.5 text-xs leading-relaxed text-neutral-400'>
+                                                {t('form.meeting_sign_hint')}
+                                            </p>
+                                        </div>
+
+                                        <div>
+                                            <label
+                                                htmlFor='flightNumber'
+                                                className='text-xs font-medium uppercase tracking-[0.15em] text-neutral-500'
+                                            >
+                                                {t('form.flight_number_label')}
+                                            </label>
+                                            <input
+                                                id='flightNumber'
+                                                name='flightNumber'
+                                                type='text'
+                                                value={form.flightNumber}
+                                                onChange={handleChange}
+                                                placeholder={t(
+                                                    'form.flight_number_placeholder',
+                                                )}
+                                                className='mt-2 w-full border-b border-neutral-300 bg-transparent py-2 text-sm text-neutral-900 placeholder:text-neutral-400 focus:border-[#C9A15B] focus:outline-none'
+                                            />
+                                            <p className='mt-1.5 text-xs leading-relaxed text-neutral-400'>
+                                                {t('form.flight_number_hint')}
+                                            </p>
+                                        </div>
+                                    </div>
+
+                                    {/* Drop-off address */}
+                                    <div>
+                                        <label
+                                            htmlFor='dropoffAddress'
+                                            className='text-xs font-medium uppercase tracking-[0.15em] text-neutral-500'
+                                        >
+                                            {t('form.dropoff_address_label')}
+                                        </label>
+                                        <input
+                                            id='dropoffAddress'
+                                            name='dropoffAddress'
+                                            type='text'
+                                            value={form.dropoffAddress}
+                                            onChange={handleChange}
+                                            placeholder={t(
+                                                'form.dropoff_address_placeholder',
+                                            )}
+                                            className='mt-2 w-full border-b border-neutral-300 bg-transparent py-2 text-sm text-neutral-900 placeholder:text-neutral-400 focus:border-[#C9A15B] focus:outline-none'
+                                        />
                                     </div>
 
                                     <div>

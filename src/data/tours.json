@@ -96,9 +96,26 @@
         "gallery": [
             "/images/tours/engelberg-titlis/gallery-1.jpg",
             "/images/tours/engelberg-titlis/gallery-2.jpg",
-            "/images/tours/engelberg-titlis/gallery-3.jpg",
-            "/images/tours/engelberg-titlis/gallery-4.jpg",
-            "/images/tours/engelberg-titlis/gallery-5.jpg"
+            "/images/tours/engelberg-titlis/gallery-4.png",
+            "/images/tours/engelberg-titlis/gallery-5.png",
+            "/images/tours/engelberg-titlis/gallery-5.png"
+        ]
+    },
+    "stanserhorn": {
+        "id": "stanserhorn",
+        "show": true,
+        "order": 7,
+        "slug": "stanserhorn-experience",
+        "price_from": "CHF 800",
+        "duration_hours": 8,
+        "passengers_max": 2,
+        "image": "/images/tours/stanserhorn/stanserhorn.jpg",
+        "gallery": [
+            "/images/tours/stanserhorn/gallery-1.jpg",
+            "/images/tours/stanserhorn/gallery-2.jpg",
+            "/images/tours/stanserhorn/gallery-3.jpg",
+            "/images/tours/stanserhorn/gallery-4.jpg",
+            "/images/tours/stanserhorn/gallery-5.jpg"
         ]
     }
 }

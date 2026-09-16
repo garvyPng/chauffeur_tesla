@@ -458,5 +458,85 @@
         "price": "AB CHF 800",
         "duration_hours_text": "8-9 Std.",
         "passengers": "1-2 Passagiere"
+    },
+    "stanserhorn": {
+        "id": "stanserhorn",
+        "show": true,
+        "order": 7,
+        "slug": "stanserhorn-experience",
+        "title": "Privates Erlebnis Stanserhorn",
+        "description": "Fahren Sie mit der weltweit ersten Cabrio-Luftseilbahn auf den Gipfel des Stanserhorns, wo ein Drehrestaurant und ein weites Zentralschweizer Panorama auf Sie warten.",
+        "overview": "Das Stanserhorn (1'898 m ü. M.) im Kanton Nidwalden ist ein beliebtes Ausflugsziel in der Zentralschweiz, bekannt für seinen Rundumblick und die historische Transportkette. Der Aufstieg erfolgt mit der CabriO-Bahn — der weltweit ersten Luftseilbahn mit offenem Oberdeck — auf deren Dach Sie im Fahrtwind nach oben fahren.",
+        "route_description": "Ein erlesener Aufstieg vom Ort Stans auf den Gipfel des Stanserhorns — mit historischer Standseilbahn, der wegweisenden offenen CabriO-Bahn und dem mühelosen Komfort einer privaten Chauffeurfahrt.",
+        "route": [
+            {
+                "time": "9:00",
+                "title": "VIP-Abholung",
+                "description": "Private Abholung an Ihrem Hotel, in Zürich oder in der Region Luzern."
+            },
+            {
+                "time": "10:00",
+                "title": "Dorf Stans",
+                "description": "Ankunft im charmanten Ort Stans am Fusse des Berges."
+            },
+            {
+                "time": "10:30",
+                "title": "Historische Standseilbahn",
+                "description": "Einstieg in die nostalgische offene Standseilbahn von 1893 für die erste Etappe des Aufstiegs."
+            },
+            {
+                "time": "11:00",
+                "title": "CabriO-Bahn",
+                "description": "Fahrt mit der weltweit ersten Luftseilbahn mit offenem Oberdeck — auf dem Dach im Fahrtwind hinauf zum Gipfel."
+            },
+            {
+                "time": "11:45",
+                "title": "Gipfelpanorama",
+                "description": "Freizeit auf dem Gipfel für den 360°-Rundumblick über zehn Seen und über hundert Alpengipfel."
+            },
+            {
+                "time": "13:00",
+                "title": "Mittagessen im Rondorama",
+                "description": "Mittagessen im Drehrestaurant «Rondorama», das sich in 43 Minuten einmal um die eigene Achse dreht."
+            },
+            {
+                "time": "14:30",
+                "title": "Ranger-Service",
+                "description": "Treffen Sie die ehrenamtlichen Ranger — für Fragen zur Pflanzenwelt, zum Panorama und zur Geschichte des Berges."
+            },
+            {
+                "time": "16:00",
+                "title": "Abfahrt",
+                "description": "Eine entspannte Talfahrt mit CabriO-Bahn und Standseilbahn, Ihr Chauffeur wartet bereits unten."
+            },
+            {
+                "time": "17:00",
+                "title": "Malerische Rückfahrt",
+                "description": "Eine bequeme Rückfahrt entlang der Ufer des Vierwaldstättersees, mit kostenlosen Erfrischungen."
+            }
+        ],
+        "custom_journey": {
+            "title": "Gestalten Sie Ihre eigene Reise",
+            "description": "Bevorzugen Sie eine eigene Route? Ihr Chauffeur steht Ihnen vollständig zur Verfügung. Wählen Sie die Orte, die Sie besuchen möchten, passen Sie den Zeitplan an und geniessen Sie die Schweiz in Ihrem eigenen Tempo. Zur Auswahl stehen:",
+            "items": [
+                "Fahrt auf dem CabriO-Oberdeck",
+                "Drehrestaurant «Rondorama»",
+                "Ranger-Service am Gipfel",
+                "Aussichtspunkte am Gipfel",
+                "Altstadt von Stans",
+                "Fotostopps",
+                "Verborgene Schätze",
+                "Freizeitfahrten"
+            ]
+        },
+        "pickup_options": [
+            "Flughafen Zürich",
+            "Hotel",
+            "Privatadresse"
+        ],
+        "duration": "Ganztägig",
+        "price": "AB CHF 800",
+        "duration_hours_text": "8-9 Std.",
+        "passengers": "1-2 Passagiere"
     }
 }

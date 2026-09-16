@@ -28,7 +28,7 @@ interface Tour extends TourData {
     content: TourContent;
 }
 
-const PER_PAGE = 6;
+const PER_PAGE = 5;
 
 function TourListItem({ tour }: { tour: Tour }) {
     const { t } = useTranslation('common');

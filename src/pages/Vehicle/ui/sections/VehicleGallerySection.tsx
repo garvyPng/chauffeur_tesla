@@ -13,14 +13,14 @@ export const VehicleGallerySection = () => {
                 <div className='grid grid-cols-1 gap-3'>
                     <div className='aspect-[16/10] overflow-hidden rounded-md'>
                         <img
-                            src='/images/cars/vehicle_page.png'
+                            src='/images/cars/interier-1.png'
                             alt='Mercedes-Benz exterior front'
                             className='h-full w-full object-cover'
                         />
                     </div>
                     <div className='aspect-[16/10] overflow-hidden rounded-md'>
                         <img
-                            src='/images/cars/vehicle.png'
+                            src='/images/cars/interier-2.png'
                             alt='Mercedes-Benz exterior side'
                             className='h-full w-full object-cover'
                         />
