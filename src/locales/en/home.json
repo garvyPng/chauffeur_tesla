@@ -2,7 +2,7 @@
     "hero": {
         "title": "Discover Switzerland",
         "title-secondary": "in Complete Comfort",
-        "text": "Private Mercedes-Benz chauffeur experiences across Zurich, Lucerne and the Swiss Alps.",
+        "text": "Private Tesla Model X chauffeur experiences across Zurich, Lucerne and the Swiss Alps.",
         "btn-book": "Book Your Experience",
         "btn-explore": "Explore Tours"
     },
@@ -18,7 +18,7 @@
             {
                 "icon": "star",
                 "title": "Luxury Vehicle",
-                "description": "First-class Mercedes-Benz comfort — climate-controlled interior, immaculate condition and punctual service."
+                "description": "First-class Tesla Model X comfort — climate-controlled interior, immaculate condition and punctual service."
             },
             {
                 "icon": "briefcase",
@@ -34,8 +34,8 @@
     "vehicle": {
         "eyebrow": "The Vehicle",
         "title": "The Comfort of a",
-        "title_accent": "Private Mercedes-Benz",
-        "description": "Every journey takes place in a meticulously maintained Mercedes-Benz E-Class or S-Class — the ultimate expression of automotive elegance and comfort.",
+        "title_accent": "Private Tesla Model X",
+        "description": "Every journey takes place in a meticulously maintained Tesla Model X — the ultimate expression of automotive elegance and comfort.",
         "features": [
             "Premium Nappa leather interior",
             "Spacious cabin for up to 4 passengers",
@@ -59,7 +59,7 @@
             },
             {
                 "title": "Luxury Comfort",
-                "description": "First-class travel in a premium Mercedes-Benz limousine."
+                "description": "First-class travel in a premium Tesla Model X limousine."
             },
             {
                 "title": "Experienced Chauffeur",
@@ -92,7 +92,7 @@
             },
             {
                 "question": "Which vehicle will I travel in?",
-                "answer": "All journeys are provided in a meticulously maintained Mercedes-Benz E-Class or S-Class with premium Nappa leather, dual-zone climate control and a spacious cabin for up to four passengers."
+                "answer": "All journeys are provided in a meticulously maintained Tesla Model X with premium Nappa leather, dual-zone climate control and a spacious cabin for up to four passengers."
             },
             {
                 "question": "Can I customize my itinerary?",

@@ -47,7 +47,7 @@ export const VehicleInteriorSection = () => {
 
                 <div className='relative aspect-[4/3] w-full overflow-x-hidden md:aspect-auto md:w-1/2'>
                     <img
-                        src='/images/cars/interior-rear.webp'
+                        src='/images/cars/interier-1.png'
                         alt={t('interior.title_accent')}
                         className='h-full w-full object-cover'
                     />

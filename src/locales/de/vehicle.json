@@ -1,7 +1,7 @@
 {
     "hero": {
         "eyebrow": "Das Fahrzeug",
-        "title": "Mercedes-Benz Exzellenz"
+        "title": "Tesla Model X Exzellenz"
     },
     "interior": {
         "eyebrow": "Innenraum",
@@ -23,7 +23,7 @@
         "specs": [
             {
                 "label": "Modell",
-                "value": "Mercedes-Benz E-Klasse"
+                "value": "Tesla Model X"
             },
             {
                 "label": "Passagiere",
@@ -48,7 +48,7 @@
         ]
     },
     "cta": {
-        "text": "Erleben Sie den Unterschied von Mercedes-Benz selbst.",
+        "text": "Erleben Sie den Unterschied von Tesla Model X selbst.",
         "button": "ERLEBNIS BUCHEN"
     }
 }

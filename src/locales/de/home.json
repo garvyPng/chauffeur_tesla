@@ -2,7 +2,7 @@
     "hero": {
         "title": "Entdecken Sie die Schweiz",
         "title-secondary": "in vollkommenem Komfort",
-        "text": "Private Mercedes-Benz Chauffeur-Erlebnisse in Zürich, Luzern und den Schweizer Alpen.",
+        "text": "Private Tesla Model X Chauffeur-Erlebnisse in Zürich, Luzern und den Schweizer Alpen.",
         "btn-book": "Ihr Erlebnis buchen",
         "btn-explore": "Touren entdecken"
     },
@@ -18,7 +18,7 @@
             {
                 "icon": "star",
                 "title": "Luxusfahrzeug",
-                "description": "Erstklassiger Mercedes-Benz Komfort — klimatisierter Innenraum, makellose Pflege und stets pünktliche Ankunft."
+                "description": "Erstklassiger Tesla Model X Komfort — klimatisierter Innenraum, makellose Pflege und stets pünktliche Ankunft."
             },
             {
                 "icon": "briefcase",
@@ -34,8 +34,8 @@
     "vehicle": {
         "eyebrow": "Das Fahrzeug",
         "title": "Der Komfort eines",
-        "title_accent": "privaten Mercedes-Benz",
-        "description": "Jede Fahrt erfolgt in einer sorgfältig gepflegten Mercedes-Benz E-Klasse oder S-Klasse — dem Höhepunkt automobiler Eleganz und Komfort.",
+        "title_accent": "privaten Tesla Model X",
+        "description": "Jede Fahrt erfolgt in einer sorgfältig gepflegten Tesla Model X — dem Höhepunkt automobiler Eleganz und Komfort.",
         "features": [
             "Premium-Nappa-Lederausstattung",
             "Geräumiger Innenraum für 4 Passagiere",
@@ -59,7 +59,7 @@
             },
             {
                 "title": "Luxuriöser Komfort",
-                "description": "Erstklassiges Reisen in einer Premium Mercedes-Benz Limousine."
+                "description": "Erstklassiges Reisen in einer Premium Tesla Model X Limousine."
             },
             {
                 "title": "Erfahrener Chauffeur",
@@ -92,7 +92,7 @@
             },
             {
                 "question": "Mit welchem Fahrzeug reise ich?",
-                "answer": "Alle Fahrten erfolgen in einer sorgfältig gepflegten Mercedes-Benz E-Klasse oder S-Klasse mit hochwertiger Nappa-Lederausstattung, Zweizonen-Klimaautomatik und einem geräumigen Innenraum für vier Passagiere."
+                "answer": "Alle Fahrten erfolgen in einer sorgfältig gepflegten Tesla Model X mit hochwertiger Nappa-Lederausstattung, Zweizonen-Klimaautomatik und einem geräumigen Innenraum für vier Passagiere."
             },
             {
                 "question": "Kann ich meine Route individuell gestalten?",
