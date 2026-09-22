@@ -1,14 +1,14 @@
 import { useTranslation } from 'react-i18next';
-import i18n from '../../../../i18n/config';
+// import i18n from '../../../../i18n/config';
 
 export const VehicleInteriorSection = () => {
     const { t } = useTranslation('vehicle');
-    const items = i18n.getResource(
-        i18n.language,
-        'vehicle',
-        'interior.features',
-    ) as string[] | undefined;
-    const features = Array.isArray(items) ? items : [];
+    // const items = i18n.getResource(
+    //     i18n.language,
+    //     'vehicle',
+    //     'interior.features',
+    // ) as string[] | undefined;
+    // const features = Array.isArray(items) ? items : [];
 
     return (
         <section className='relative left-1/2 right-1/2 mt-16 w-screen -translate-x-1/2 bg-black'>
@@ -31,7 +31,7 @@ export const VehicleInteriorSection = () => {
                             {t('interior.description')}
                         </p>
 
-                        <ul className='mt-6 flex flex-col gap-2'>
+                        {/* <ul className='mt-6 flex flex-col gap-2'>
                             {features.map((feature) => (
                                 <li
                                     key={feature}
@@ -41,7 +41,7 @@ export const VehicleInteriorSection = () => {
                                     {feature}
                                 </li>
                             ))}
-                        </ul>
+                        </ul> */}
                     </div>
                 </div>
 

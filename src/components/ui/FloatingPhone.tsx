@@ -1,7 +1,7 @@
 import { Phone } from 'lucide-react';
 
 // const PHONE_DISPLAY = '+41 79 123 45 67';
-const PHONE_LINK = '+41791234567';
+const PHONE_LINK = '+41762943588';
 
 export function FloatingPhone() {
     return (

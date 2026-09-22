@@ -11,12 +11,18 @@ export const HeroSection = () => {
         <section id='home' className='relative h-screen min-h-[600px]'>
             <div className='absolute inset-0 z-0 overflow-hidden'>
                 <img
-                    className='h-full w-full object-cover'
+                    className='
+        absolute inset-0 h-full w-full object-cover
+        object-[55%_center]
+        md:object-[60%_center]
+        lg:object-[90%_center] 
+        translate-x-[0] scale-[1]
+        lg:translate-x-[-2%] lg:scale-[1.1]
+    '
                     src='/images/cars/hero.png'
                     alt='mercedes'
-                    fetchPriority='high'
-                    decoding='async'
                 />
+
                 <div
                     className='absolute inset-0'
                     style={{
