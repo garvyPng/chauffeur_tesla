@@ -37,7 +37,7 @@
         "title_accent": "Private Tesla Model X",
         "description": "Every journey takes place in a meticulously maintained Tesla Model X — the ultimate expression of automotive elegance and comfort.",
         "features": [
-            "Premium Nappa leather interior",
+            "Premium interior",
             "Dual-zone climate control",
             "The Tesla Model X is a luxury electric full-size SUV, best known for its distinctive falcon wing doors and extreme performance",
             "Mineral water & refreshments",
@@ -91,7 +91,7 @@
             },
             {
                 "question": "Which vehicle will I travel in?",
-                "answer": "All journeys are provided in a meticulously maintained Tesla Model X with premium Nappa leather, dual-zone climate control and a spacious cabin for up to four passengers."
+                "answer": "All journeys are provided in a meticulously maintained Tesla Model X with premium interior, dual-zone climate control and a spacious cabin for up to four passengers."
             },
             {
                 "question": "Can I customize my itinerary?",
