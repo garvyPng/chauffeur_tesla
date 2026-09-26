@@ -165,6 +165,10 @@ export const FormSection = () => {
                                     ))}
                                 </ul>
                             </div>
+
+                            <div className='max-w-72'>
+                                <img src='/images/qr-tesla.png' alt='qr-code' />
+                            </div>
                         </div>
 
                         {/* Form */}
